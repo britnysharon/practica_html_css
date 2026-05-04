@@ -204,6 +204,9 @@ h2 {
 .curiosidades{
     font-family: monospace;
 }
+li{
+    padding: 10px;
+  }  
 .lista_galeria {
   width: 30%;
   margin: auto;
